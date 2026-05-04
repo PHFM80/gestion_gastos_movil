@@ -2,7 +2,7 @@
 
 title = Control Gastos
 package.name = controlgastos
-package.domain = org.D&T
+package.domain = org.DyT
 
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,ttf,db,sqlite,csv
